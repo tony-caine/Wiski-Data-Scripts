@@ -1,0 +1,8 @@
+password*.*
+
+#.gitignore  (include it)
+
+*.log
+__pycache__/
+.vscode/
+out*/
