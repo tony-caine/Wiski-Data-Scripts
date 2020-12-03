@@ -1,0 +1,6 @@
+say A4261093
+
+then
+
+http://www.bom.gov.au/waterdata/services?service=SOS&request=getobservation&datasource=0&version=2.0&featureOfInterest=http://bom.gov.au/waterdata/services/stations/416415A
+

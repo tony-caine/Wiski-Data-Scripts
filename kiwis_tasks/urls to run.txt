@@ -1,0 +1,17 @@
+
+get controlled usage
+
+http://amaprdwiskweb1b:8081/KiWIS/KiWIS?datasource=0&service=kisters&type=queryServices&request=getTimeseriesValues&datasource=0&format=csv&ts_path=AccessLicenceAccounts/11982*/AccUsage/FYear.Total&from=2010-01-01&to=2020-01-01&dateformat=yyyy-MM-dd
+
+get uncontrolled usage
+
+http://amaprdwiskweb1b:8081/KiWIS/KiWIS?datasource=0&service=kisters&type=queryServices&request=getTimeseriesValues&datasource=0&format=csv&ts_path=AccessLicenceAccounts/11982*/UncFlUsage/FYear.Total&from=2010-01-01&to=2020-01-01&dateformat=yyyy-MM-dd
+
+
+form request
+send
+get data
+add across the dates
+
+write the data back to a import number
+
