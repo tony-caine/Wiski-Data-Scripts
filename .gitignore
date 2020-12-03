@@ -1,8 +1,9 @@
 password*.*
 
-#.gitignore  (include it)
+# .gitignore  (include it)
+# out*/       (include the output. just manage number of files)
 
 *.log
 __pycache__/
 .vscode/
-out*/
+
